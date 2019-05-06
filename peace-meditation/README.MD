@@ -3,14 +3,21 @@ see https://ca.figu.org/peace-meditation.html
 
 ![peace symbol](https://nebula.wsimg.com/497339c4392f48f361336210b954db98?AccessKeyId=C0F879B9BB56750BC6EE&disposition=0&alloworigin=1)
 
-# Links to calendar events
+# Calendar events
 
-This Calendar Item contains the following notifications:
- - 57 min:  30 min prior to start reminder
+The intention of these calendar events are to use the notifications
+for the calendar events as the timer for the meditaion (hence the 
+calendar event "starts" as the medidation is completed - aka at `rest period ends`)
+
+These calendar items contain the following notifications:
+ - 57 min:  30 min prior to start of silent meditation reminder
  - 27 min:  5 min prior silent meditation start
  - 22 min:  peace meditation start
  - 2  min:  peace meditation end (rest period begin)
  - 0  min:  rest period ends
+
+All calendar items are set to use UCT so daylight savings adjustments will 
+automatically be incorporated into your local timezone 
 
 __________________________
  - [First Saturday, 1/2](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2g1NDUyY3RsaXJmbnV0ZjFnOGkzOTBsbzVfMjAxOTA1MDRUMTc1MjAwWiByaWdlbC5yb3phbnNraUBt&tmsrc=rigel.rozanski%40gmail.com&scp=ALL)
