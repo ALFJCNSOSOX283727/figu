@@ -3,7 +3,7 @@ see https://ca.figu.org/peace-meditation.html
 
 ![peace symbol](https://nebula.wsimg.com/497339c4392f48f361336210b954db98?AccessKeyId=C0F879B9BB56750BC6EE&disposition=0&alloworigin=1)
 
-# Calendar events
+# Calendar Events
 
 The intention of these calendar events are to use the notifications
 for the calendar events as the timer for the meditaion (hence the 
